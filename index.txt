@@ -1,0 +1,33 @@
+
+SUETOSImagePrompter
+PROFESSIONAL AI PROMPT ARCHITECT
+Enter your Anthropic API Key
+This app uses Claude AI to generate prompts. You need an Anthropic API key. Your key is stored only in your browser — never sent anywhere else.
+1
+Go to console.anthropic.com/settings/keys
+2
+Click "Create Key" and copy it
+3
+Paste it below and click "Save & Test"
+
+
+Save & Test Connection
+🔒 Stored locally in your browser only. Never transmitted to any server other than Anthropic.
+
+SUETOSImagePrompter
+PROFESSIONAL AI PROMPT ARCHITECT
+EN
+FR
+SUBJECT
+1 / 6
+Subject & References
+Describe your visual concept. Upload reference images to guide Claude.
+
+Click or drag & drop reference images
+Optional — helps Claude understand your visual direction
+MAIN CONCEPT
+
+Back
+Continue
+
+
